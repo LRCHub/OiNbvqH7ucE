@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "now-i-see",
+  "base_artist": "きょんぺ",
+  "createdAt": "2025-12-27T14:48:47.005991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Grayscale Season",
+      "has_synced": false,
+      "path": "select/01_Now_I_See_Grayscale_Season.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "has_synced": true,
+      "path": "select/02_Now_I_See_Sharon_Jones_&_The_Dap-Kings.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Sharon Jones and the Dap-Kings",
+      "has_synced": true,
+      "path": "select/03_Now_I_See_Sharon_Jones_and_the_Dap-Kings.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Now I See - Extrait de la bande originale du film \"Miraculous\"",
+      "artist": "Lou feat. Drew Ryan Scott",
+      "has_synced": true,
+      "path": "select/04_Now_I_See_-_Extrait_de_la_bande_originale_du_film__Miraculous_Lou_feat._Drew_Ryan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Lou",
+      "has_synced": true,
+      "path": "select/05_Now_I_See_Lou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Punchline",
+      "has_synced": true,
+      "path": "select/06_Now_I_See_Punchline.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Sharon Jones and the Dap‐Kings",
+      "has_synced": true,
+      "path": "select/07_Now_I_See_Sharon_Jones_and_the_Dap‐Kings.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End Now I See You",
+      "artist": "Kaiyko",
+      "has_synced": false,
+      "path": "select/08_End_Now_I_See_You_Kaiyko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "林凡",
+      "has_synced": false,
+      "path": "select/09_Now_I_See_林凡.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Now I See  (Club Radio Edit)",
+      "artist": "Aurosonic",
+      "has_synced": true,
+      "path": "select/10_Now_I_See_(Club_Radio_Edit)_Aurosonic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Ariel Posen",
+      "has_synced": false,
+      "path": "select/11_Now_I_See_Ariel_Posen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Posen, Ariel",
+      "has_synced": false,
+      "path": "select/12_Now_I_See_Posen,_Ariel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "The McClures",
+      "has_synced": false,
+      "path": "select/13_Now_I_See_The_McClures.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Long I Heard, Now I See",
+      "artist": "Skyforger",
+      "has_synced": true,
+      "path": "select/14_Long_I_Heard,_Now_I_See_Skyforger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Paul McClure",
+      "has_synced": true,
+      "path": "select/15_Now_I_See_Paul_McClure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Caleb Gordon",
+      "has_synced": false,
+      "path": "select/16_Now_I_See_Caleb_Gordon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Now I See",
+      "artist": "Lou/Drew Ryan Scott",
+      "has_synced": true,
+      "path": "select/17_Now_I_See_Lou_Drew_Ryan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Now I See - Progressive Edit",
+      "artist": "Aurosonic",
+      "has_synced": true,
+      "path": "select/18_Now_I_See_-_Progressive_Edit_Aurosonic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "now-i-see",
+      "artist": "きょんぺ",
+      "has_synced": false,
+      "path": "select/pl_01_now-i-see_きょんぺ.txt"
+    }
+  ]
+}
